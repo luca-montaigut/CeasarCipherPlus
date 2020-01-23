@@ -8,8 +8,7 @@
 
 2 Allez dans le dossier créé (racine de l'appli) par votre clonage et lancer la commande "bundle install" depuis votre terminal.
 
-3 Le fichier .env contient les clefs de chiffrages par défaut. Elles vous permettent de tester le logiciel mais n'apportent aucune garantie sur le nombre
-d'utilisateur de ces dernières. Nous vous conseillons de changer leur valeurs et des les transmettre par message privés à vos correspondants.
+3 Le fichier .env contient les clefs de chiffrages par défaut. Elles vous permettent de tester l'appli mais n'apportent aucune garantie sur le nombre d'utilisateur de ces dernières. Nous vous conseillons de changer leur valeurs et de les transmettre par message privés à vos correspondants.
 
 4 Lancez le programme depuis votre terminal en restant dans le dossier racine de l'appli avec la commande "ruby lib/ceasar_cipher_plus.rb"
 
