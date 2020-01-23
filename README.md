@@ -25,7 +25,7 @@ d'utilisateur de ces dernières. Nous vous conseillons de changer leur valeurs e
 
 ## A propos de nous
 
-Si vous lisez ceci c'est que vous avez pris le temps d'essayer notre appli ou que vous l'envisager. Nous vous en remercions et espérons que vous avez pris autant de plaisir à l'utiliser que nous à la faire.
+Si vous lisez ceci c'est que vous avez pris le temps d'essayer notre appli ou que vous l'envisagez. Nous vous en remercions et espérons que vous avez pris ou prendrez autant de plaisir à l'utiliser que nous à la faire.
 
 Vous pouvez faire un tous sur nos github pour voir nos autres réalisations :
 Luca Montaigut : https://github.com/luca-montaigut
