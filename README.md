@@ -1,8 +1,8 @@
-#CEASAR CIPHER +
+# CEASAR CIPHER +
 
-##Presentation
+## Presentation
 
-##Installation
+## Installation
 
 1 Clonez le repository sur votre machine 
 
@@ -15,7 +15,7 @@ d'utilisateur de ces dernières. Nous vous conseillons de changer leur valeurs e
 
 5 Suivez les instructions et amusez-vous ! ;)
 
-##Problèmes connus
+## Problèmes connus
 
 - L'application ne gère pas encore les caractères spéciaux tel que les accents ou la cédille, évitez de les utiliser.
 
@@ -23,7 +23,7 @@ d'utilisateur de ces dernières. Nous vous conseillons de changer leur valeurs e
 
 - Personne ne lit le README
 
-##A propos de nous
+## A propos de nous
 
 Si vous lisez ceci c'est que vous avez pris le temps d'essayer notre appli ou que vous l'envisager. Nous vous en remercions et espérons que vous avez pris autant de plaisir à l'utiliser que nous à la faire.
 
