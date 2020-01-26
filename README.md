@@ -2,6 +2,8 @@
 
 ## Presentation
 
+Suite au projet du "Ceasar Cipher" en début de semaine 3 chez THP et une discussion sur la cryptographie, nous nous sommes amusés à pousser l'exercice un peu plus loin. Grâce à cette appli vous pourrez échanger des messages cryptés indéchiffrables aux yeux de ceux ne partageant pas vos clefs de sécurité.
+
 ## Installation
 
 1 Clonez le repository sur votre machine 
@@ -18,15 +20,17 @@
 
 - L'application ne gère pas encore les caractères spéciaux tel que les accents ou la cédille, évitez de les utiliser.
 
-- Les chiffres ne sont pas cryptés
+- L'encodage est modifié peut être altéré par certain site de messagerie ce qui empêche l'utilisation de copier/coller.
 
-- Personne ne lit le README
+- Les chiffres ne sont pas cryptés.
+
+- Personne ne lit le README.
 
 ## A propos de nous
 
-Si vous lisez ceci c'est que vous avez pris le temps d'essayer notre appli ou que vous l'envisagez. Nous vous en remercions et espérons que vous avez pris ou prendrez autant de plaisir à l'utiliser que nous à la faire.
+Si vous lisez ceci c'est que vous avez pris le temps d'essayer notre appli ou que vous l'envisagez. Nous vous en remercions et espérons que vous avez pris ou prendrez autant de plaisir à l'utiliser que nous en avons eu à la faire.
 
-Vous pouvez faire un tous sur nos github pour voir nos autres réalisations :
+Vous pouvez faire un tour sur nos github pour voir nos autres réalisations :
 
 Luca Montaigut : https://github.com/luca-montaigut
 
