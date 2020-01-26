@@ -20,7 +20,7 @@ Suite au projet du "Ceasar Cipher" en début de semaine 3 chez THP et une discus
 
 - L'application ne gère pas encore les caractères spéciaux tel que les accents ou la cédille, évitez de les utiliser.
 
-- L'encodage est modifié peut être altéré par certain site de messagerie ce qui empêche l'utilisation de copier/coller.
+- L'encodage est modifié par certain site de messagerie ce qui empêche l'utilisation de copier/coller.
 
 - Les chiffres ne sont pas cryptés.
 
