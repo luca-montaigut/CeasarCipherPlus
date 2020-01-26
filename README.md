@@ -8,7 +8,7 @@ Suite au projet du "Ceasar Cipher" en début de semaine 3 chez THP et une discus
 
 1 Clonez le repository sur votre machine 
 
-2 Allez dans le dossier créé (racine de l'appli) par votre clonage et lancer la commande "bundle install" depuis votre terminal.
+2 Allez dans le dossier créé par votre clonage (racine de l'appli) et lancer la commande "bundle install" depuis votre terminal.
 
 3 Le fichier .env contient les clefs de chiffrages par défaut. Elles vous permettent de tester l'appli mais n'apportent aucune garantie sur le nombre d'utilisateur de ces dernières. Nous vous conseillons de changer leur valeurs et de les transmettre par message privés à vos correspondants.
 
