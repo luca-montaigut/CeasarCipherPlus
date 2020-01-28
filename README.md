@@ -1,5 +1,10 @@
 # CEASAR CIPHER +
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)   ![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+
+## Pré-requis
+Veillez à mettre votre terminal en plein écran pour une expérience optimale
+
 ## Presentation
 
 Suite au projet du "Ceasar Cipher" en début de semaine 3 chez THP et une discussion sur la cryptographie, nous nous sommes amusés à pousser l'exercice un peu plus loin. Grâce à cette appli vous pourrez échanger des messages cryptés indéchiffrables aux yeux de ceux ne partageant pas vos clefs de sécurité.
