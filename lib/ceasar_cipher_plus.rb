@@ -1,5 +1,7 @@
 require 'dotenv'
 Dotenv.load('.env')
+
+def header 
 puts "
    ___  ____  ___   __   ___  ____       ___ __ ____  __  __  ____ ____      
   //   ||    // \\\\ (( \\ // \\\\ || \\\\     //   || || \\\\ ||  || ||    || \\\\     ||   
@@ -7,6 +9,7 @@ puts "
   \\\\__ ||___ || || \\_)) || || || \\\\     \\\\__ || ||    ||  || ||___ || \\\\     ||
   
   "
+ end
 
 def caesar_letter(str, num)
   ascii_str = str.ord
@@ -53,6 +56,7 @@ puts "\n\n  |-------------------------------------------------------------------
     print "\n    Pressez la touche \"Entrer\" pour revenir au menu "
     gets.chomp
     choice = 0
+    system("clear")
 end
 
 def menu
@@ -67,14 +71,15 @@ def menu
 end
 
 def perform
-  puts "     %$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(\n\n"
-  puts "                       Bienvenue sur Ceasar Cipher +"
-  puts "\n     %$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(\n\n"
-  puts "\n      Grâce à cette appli vous allez pouvoir échanger des messages chiffrés" 
-  puts "              aux amis qui partagent vos clefs de déchiffrage. "
-  puts "\n           Même la CIA ne pourra pas espionner vos conversations !\n\n"
   choice = 0
   while choice != 3
+    header
+    puts "     %$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(\n\n"
+    puts "                       Bienvenue sur Ceasar Cipher +"
+    puts "\n     %$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(\n\n"
+    puts "\n      Grâce à cette appli vous allez pouvoir échanger des messages chiffrés" 
+    puts "              aux amis qui partagent vos clefs de déchiffrage. "
+    puts "\n           Même la CIA ne pourra pas espionner vos conversations !\n\n"
     choice = menu  
     case choice
     when 0
@@ -91,6 +96,7 @@ def perform
       end      
       print "\n\n   Votre message a bien été chiffré. \n   Copiez-le pour l'envoyer puis pressez la touche \"Entrer\" pour revenir au menu "
       gets.chomp
+      system("clear")
     when 2
       puts "\n    Écrivez le message à déchiffrer"
       print "   > "
@@ -103,14 +109,16 @@ def perform
       end
       print "\n\n    Pressez la touche \"Entrer\" pour revenir au menu "
       gets.chomp
+      system("clear")
     when 3
       puts "\n     %$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(\n"
-      puts "\n           Au revoir, ou comme on dit chez nous : #{hardcore_crypto("Au revoir")}"
+      puts "\n           Au revoir, ou comme on dit chez nous : #{hardcore_crypto("Au revoir")} !"
       puts "\n     %$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(@%$£€~/&(\n\n"
       break
     else
       print "\n   Je n'ai pas compris votre demande...Pressez la touche \"Entrer\" pour revenir au menu "
       gets.chomp
+      system("clear")
     end
   end
 end
