@@ -2,6 +2,9 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)   ![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
+## Aperçu
+![Gif demonstration](https://i.imgur.com/yGWeHxa.gif)
+
 ## Pré-requis
 Veillez à mettre votre terminal en plein écran pour une expérience optimale
 
