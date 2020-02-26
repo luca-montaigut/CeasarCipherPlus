@@ -34,6 +34,8 @@ Suite au projet du "Ceasar Cipher" en début de semaine 3 chez THP et une discus
 
 - Personne ne lit le README.
 
+### Bonus : version online => https://lm-forfun.herokuapp.com
+
 ## A propos de nous
 
 Si vous lisez ceci c'est que vous avez pris le temps d'essayer notre appli ou que vous l'envisagez. Nous vous en remercions et espérons que vous avez pris (ou prendrez) autant de plaisir à l'utiliser que nous en avons eu à la faire.
